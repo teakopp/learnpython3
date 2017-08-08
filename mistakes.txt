@@ -1,2 +1,4 @@
 Missed variable when writing out 10 different variables
 Forgot .format() while creating a function
+Misspelled variable name
+Missed * in string

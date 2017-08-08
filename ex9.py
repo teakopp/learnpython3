@@ -12,7 +12,7 @@ print("Here are the days: ", days)
 #same as above but with months varaiable
 print("Here are the months: ", months)
 
-#prints all lines 
+#prints all lines
 print("""
 There's something going on here.
 With the three double-quotes.
