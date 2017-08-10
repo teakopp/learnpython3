@@ -3,3 +3,5 @@ Forgot .format() while creating a function
 Misspelled variable name
 Missed * in string
 Forgot end quote for string
+Forgot letter in variable
+forgot to define variable in init function
